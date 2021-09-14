@@ -1,1 +1,1 @@
-# Music_Generation_with_Deep_Learning
+# Check out the pynb file for the code (Part of Coursera Course)
